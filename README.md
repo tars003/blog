@@ -1,4 +1,4 @@
-A dull fledged Django powered blog. 
+A ull fledged Django powered blog. 
 Features :- 
   * Media hosting on AWS S3 Bucket 
   * Hosted on Heroku
